@@ -1,7 +1,7 @@
 # JavaScript Functions 101
 Mini interactive Founders &amp; Coders group workshop to review JS functions and function jargon.
 
-Copy the code below into Rept.it to run code and see what each function type example returns. Uncomment/comment as needed!
+Copy the code below into [Repl.it](https://repl.it/) to run code and see what each function type example returns. Uncomment/comment as needed!
 
 ```
 // DECLARED NAMED FUNCTION
